@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Vacskamati Blog`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Sári Márton`,
+      summary: `személyes blogja`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `Personal blog of Marton Sari`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `sarimarton`,
     },
   },
   plugins: [
