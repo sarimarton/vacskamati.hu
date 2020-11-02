@@ -1,5 +1,5 @@
 FROM centos:centos8 as builder
-RUN dnf install -y mc python3 nodejs
+RUN dnf install -y python3 nodejs
 WORKDIR /usr/_app
 COPY . .
 RUN npm i && npm run build
